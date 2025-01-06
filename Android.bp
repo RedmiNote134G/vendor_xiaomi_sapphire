@@ -520,7 +520,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.ir-service.example",
+	name: "android.hardware.ir-service.example.xml",
 	owner: "xiaomi",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.ir-service.example.xml",
 	filename_from_src: true,
